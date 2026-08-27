@@ -1,0 +1,5 @@
+.venv/
+.env
+.claude/
+CLAUDE.md
+customer_service_emails.csv
